@@ -1,1 +1,2 @@
 welcome to github
+github is a open source project to manage version control system
