@@ -1,1 +1,3 @@
 welcome to s-banking project
+
+Source Tree is the UI Tool to Interact with Github
